@@ -25,7 +25,7 @@ int main() {
         cin >> arr2[i];
     }
 
-    cout << "Intersection of arrays : ";
+    cout << "common elements of arrays : ";
 
     for(int i = 0 ; i < num1; i++) {
 
